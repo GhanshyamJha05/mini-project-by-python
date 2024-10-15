@@ -1,4 +1,4 @@
-This is program used to show your banking activities done by you using python
+#This is program used to show your banking activities done by you using python
 
 def show_balance(balance):
     print("*********************")
